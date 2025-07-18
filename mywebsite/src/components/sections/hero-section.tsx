@@ -18,10 +18,10 @@ export function HeroSection() {
           </p>
           <div className="flex flex-col sm:flex-row space-y-3 sm:space-y-0 sm:space-x-4 justify-center md:justify-start">
             <Button asChild variant="default" className="bg-white text-blue-600 hover:bg-gray-100 w-full sm:w-auto">
-              <Link href="/contact">Contact Me</Link>
+              <Link href="#contact">Contact Me</Link>
             </Button>
             <Button asChild variant="outline" className="border-white text-white hover:bg-white hover:text-blue-600 w-full sm:w-auto">
-              <Link href="/projects">View Projects</Link>
+              <Link href="#projects">View Projects</Link>
             </Button>
           </div>
         </div>

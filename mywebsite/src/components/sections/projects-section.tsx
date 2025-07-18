@@ -96,7 +96,7 @@ export function ProjectsSection() {
         
         <div className="text-center mt-8 sm:mt-10 md:mt-12">
           <Button asChild className="bg-blue-600 hover:bg-blue-700 px-6 sm:px-8 py-5 sm:py-6 text-base sm:text-lg w-full sm:w-auto max-w-xs mx-auto">
-            <Link href="/projects">View All Projects</Link>
+            <Link href="#projects">View All Projects</Link>
           </Button>
         </div>
       </div>
